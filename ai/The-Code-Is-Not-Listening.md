@@ -1,6 +1,6 @@
 
 The Code Is Not Listening… It Is Learning From You
-- Domoa Al-Fatlawi — Cybersecurity Engineering Student
+Domoa Al-Fatlawi — Cybersecurity Engineering Student
 
 I do not view Artificial Intelligence as a “friend,” “listener,” or emotional companion. To me, it is advanced technology. Powerful? Yes. Useful? Absolutely. But at its core, it remains technology.
 From a technical perspective, AI is not listening to users. It is learning from them.
